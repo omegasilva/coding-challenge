@@ -17,3 +17,15 @@ Simple web-services challenge on Spring-Boot and H2
 ### Following is the ER diagram for the DB.
 
 ![ER Diagram](/images/er.png)
+
+### Service Output
+
+```json
+{
+  "id": 1,
+  "firstName": "Nick",
+  "lastName": "Fury",
+  "departmentId": 1,
+  "encodedName" : "Tmlja19GdXJ5"
+}
+```
