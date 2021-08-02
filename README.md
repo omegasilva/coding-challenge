@@ -30,3 +30,7 @@ Simple web-services challenge on Spring-Boot and H2
   "encodedName" : "Tmlja19GdXJ5"
 }
 ```
+
+### Dependencies for H2
+
+https://mvnrepository.com/artifact/com.h2database/h2
